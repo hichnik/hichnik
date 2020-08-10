@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Iurii from Ukraine :wave:
+#### I'm Iurii from Ukraine 
 
 <!--
 **hichnik/hichnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
